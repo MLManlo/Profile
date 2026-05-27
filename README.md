@@ -1,7 +1,9 @@
 #About Me
 
 🇭🇰00's 
-🎓 **EdUHK** Maj:ESDC; Min: Inclu. Ed.
+🎓 **EdUHK** 
+- Major:English Studiues and Digital Communication
+- Minor: Inclusive Education
 
 **Interest**
 - Listening to music
